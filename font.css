@@ -1,0 +1,39 @@
+/* h1{
+    color: rgb(222, 189, 4);
+    background-color: black;
+}
+
+#box1{
+    background-color: red;
+    text-align: center;
+    text-decoration: overline;
+}
+
+/* #box2{
+ background-color: blue;
+ text-align: left;
+
+}
+
+#box3{
+   background-color: green;
+   text-align: right;
+} */
+/* .box{
+    height: 100px;
+    width: 100px;
+} */
+
+/* a{
+    text-decoration:none;
+} */ 
+ #first{
+   font-size: 30px;
+   
+    font-family: "Pacifico", cursive;
+ 
+ }
+ #second{
+    font-size: 30px;
+    font-family: "Dancing Script", cursive;
+ }
